@@ -1,1 +1,3 @@
-# Indice-genero-decision-representacion
+# Indice de Género, Decisión y Representacion
+
+(mini descripcion, referencia al documento principal, etc)
