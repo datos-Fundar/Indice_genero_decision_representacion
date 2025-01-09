@@ -1,29 +1,23 @@
-# ¿Quién tiene el poder en las provincias argentinas? 
-## Un Índice de Género, Decisión y Representación
+# ¿Quién tiene el poder en las provincias argentinas? Un Índice de Género, Decisión y Representación
+
+<!-- CAMBIAR "https://place-hold.it/1920x1080" POR EL LINK A LA IMAGEN CORRESPONDIENTE -->
+[![¿Quién tiene el poder en las provincias argentinas?](https://fund.ar/wp-content/uploads/2023/03/iStock-1393623109.jpg)](https://fund.ar/wp-content/uploads/2023/03/Fundar_Quien-tiene-el-poder-en-las-provincias-argentinas_CC-BY-NC-ND-4.0.pdf)
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234.svg)](https://zenodo.org/doi/10.5281/zenodo.11186044) -->
+
 
 En este repositorio se encuentran las bases crudas y procesadas que se utilizaron para la confección del [Índice de género decision y representación](https://fund.ar/publicacion/indice-genero-decision-representacion/) publicada por el [Área de Géneros](https://fund.ar/area/generos/) y [Datos](https://fund.ar/area/datos/) de Fundar. Este índice se enfoca en la disparidad en materia de toma de decisiones y representación en las 24 jurisdicciones de Argentina, medida a partir de la presencia de mujeres en las élites políticas, judiciales y económicas.
 
 
+## ¿Cómo citar?
 
-
-
-
-
-
-
-# Proteccion de datos
-
-Este repositorio es parte de la [Guía Práctica de Protección de datos](https://fund.ar/publicacion/guia-practica-para-la-anonimizacion-de-datos/) publicada por el [Área de Datos de Fundar](https://fund.ar/area/datos/). El objetivo de la guía es revisar algunas consideraciones prácticas a tener en cuenta al realizar intercambios de datos o publicar datos que contienen información de carácter sensible. En este repositorio proponemos el uso de herramientas para proteger datos, que no pretenden ser exhaustivas ni completamente abarcativas. ejemplificadas en el lenguaje Python. 
-
-## Ejemplo
-
-Se incluyen ejemplos de utilización en el lenguaje `Python` en el siguiente _Jupyter Notebook_: [`ejemplos_guia.ipynb`](https://github.com/datos-Fundar/proteccion_de_datos/blob/main/ejemplos_guia.ipynb). En estos ejemplos se usan las siguientes librerías:
-* [Scrubadub](https://scrubadub.readthedocs.io/en/stable/): utilizada para remover información personal de textos.
-* [Hashlib](https://docs.python.org/3/library/hashlib.html): utilizada para encriptar datos.
-
-## Relacionado
-
-1. [Privacidad: definiciones de datos – Glosario](https://fund.ar/publicacion/privacidad-en-datos/)
-2. [La anonimización: un instrumento clave para una gestión de datos eficiente](https://fund.ar/publicacion/brief-anonimizacion/)  
-3. [Anónimos pero no tanto: cómo hacer una gestión de datos eficiente sin poner en riesgo la privacidad](https://fund.ar/publicacion/anonimimos-pero-no-tanto/)
-4. [Guía práctica para la protección de datos personales en salud](https://fund.ar/publicacion/guia-proteger-datos-en-salud/)
+```bibtex
+@misc{fundar2023,
+  author = {Fundar},
+  title = {¿Quién tiene el poder en las provincias argentinas? Un Índice de Género, Decisión y Representación},
+  year = {2023},
+  url = {https://fund.ar/publicacion/indice-genero-decision-representacion/},
+  urldate = {2023-03-23},
+}
+```

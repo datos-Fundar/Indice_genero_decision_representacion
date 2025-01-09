@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Si usás este repositorio, por favor citalo usando estos datos."
+license: CC-BY-NC-SA-4.0
+type: dataset
+date-released: "2025-01-17"
+title: "¿Quién tiene el poder en las provincias argentinas?"
+abstract: >-
+  El Índice de Género, Decisión y Representación (IGDR) es una herramienta desarrollada 
+  para evaluar la participación de las mujeres en las élites políticas, judiciales y económicas de Argentina. 
+  Este índice mide las oportunidades de las mujeres para integrarse en espacios de poder y toma de decisiones, 
+  analizando datos a nivel nacional y provincial. 
+  El IGDR destaca las disparidades de género en diferentes jurisdicciones, proporcionando 
+  un mapa detallado de las brechas existentes en cada provincia.
+
+repository-code: "https://github.com/datos-Fundar/Indice_genero_decision_representacion"
+url: "https://fund.ar/wp-content/uploads/2023/03/Fundar_Quien-tiene-el-poder-en-las-provincias-argentinas_CC-BY-NC-ND-4.0.pdf"
+
+identifiers:
+  - description: "El Índice de Género, Decisión y Representación mide la participación de mujeres 
+  en espacios de poder en Argentina, y destaca brechas a nivel nacional y provincial."
+    type: doi
+#    value: 10.5281/zenodo.123456  // REEMPLAZAR ESTO CON EL DOI CORRESPONDIENTE Y CAMBIARLO EN EL README
+authors:
+  - given-names: "Lorem"
+    family-names: "Ipsum"
+    affiliation: "Fundar"
+    email: lipsum@fund.ar
+    
