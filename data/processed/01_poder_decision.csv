@@ -1,28 +1,25 @@
-Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3
-,Provincia,Poder de decisión,Ranking
-,Buenos Aires,37.5,24
-,CABA,49.75,7
-,Catamarca,49.25,9
-,Chaco,61.5,1
-,Chubut,43.75,18
-,Córdoba,42.5,20
-,Corrientes,45.75,14
-,Entre Ríos,47.25,11
-,Formosa,49,10
-,Jujuy,46.75,12
-,La Pampa,45,16
-,La Rioja,43.5,19
-,Mendoza,45.75,15
-,Misiones,40.5,22
-,Neuquén,54.25,6
-,Río Negro,56.75,3
-,Salta,41.75,21
-,San Juan,49.5,8
-,San Luis,58,2
-,Santa Cruz,45,17
-,Santa Fe,54.75,5
-,Santiago del Estero,55,4
-,TdF,39,23
-,Tucumán,46.75,13
-,,,
-,Explicar cómo se hizo cada indicador,,
+Provincia,Poder de decisión,Ranking
+Buenos Aires,37.5,24
+CABA,49.75,7
+Catamarca,49.25,9
+Chaco,61.5,1
+Chubut,43.75,18
+Córdoba,42.5,20
+Corrientes,45.75,14
+Entre Ríos,47.25,11
+Formosa,49.0,10
+Jujuy,46.75,12
+La Pampa,45.0,16
+La Rioja,43.5,19
+Mendoza,45.75,15
+Misiones,40.5,22
+Neuquén,54.25,6
+Río Negro,56.75,3
+Salta,41.75,21
+San Juan,49.5,8
+San Luis,58.0,2
+Santa Cruz,45.0,17
+Santa Fe,54.75,5
+Santiago del Estero,55.0,4
+TdF,39.0,23
+Tucumán,46.75,13
