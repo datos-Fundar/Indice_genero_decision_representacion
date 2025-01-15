@@ -1,0 +1,26 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10
+,Provincia,m_ministras,v_ministros,total_gabinete,paridad_gabinete,m_estandarizado,v_estandarizado,ratio_gabinete,género_gobernación,valor_gobernación
+,Buenos Aires,5,13,18,9,55.5555556,144.444444,38.4615385,Masculino,0
+,CABA,3,7,10,5,60,140,42.8571429,Masculino,0
+,Catamarca,5,11,16,8,62.5,137.5,45.4545455,Masculino,0
+,Chaco,4,4,8,4,100,100,100,Masculino,0
+,Chubut,1,10,11,5,20,166.666667,12,Masculino,0
+,Córdoba,4,12,16,8,50,150,33.3333333,Masculino,0
+,Corrientes,2,10,12,6,33.3333333,166.666667,20,Masculino,0
+,Entre Ríos,3,3,6,3,100,100,100,Masculino,0
+,Formosa,3,7,10,5,60,140,42.8571429,Masculino,0
+,Jujuy,3,9,12,6,50,150,33.3333333,Masculino,0
+,La Pampa,1,8,9,4,25,160,15.625,Masculino,0
+,La Rioja,0,12,12,6,0,200,0,Masculino,0
+,Mendoza,2,6,8,4,50,150,33.3333333,Masculino,0
+,Misiones,3,11,14,7,42.8571429,157.142857,27.2727273,Masculino,0
+,Neuquén,4,8,12,6,66.6666667,133.333333,50,Masculino,0
+,Río Negro,3,7,10,5,60,140,42.8571429,Femenino,100
+,Salta,1,8,9,4,25,160,15.625,Masculino,0
+,San Juan,4,5,9,4,100,100,100,Masculino,0
+,San Luis,3,6,9,4,75,120,62.5,Masculino,0
+,Santa Cruz,4,6,10,5,80,120,66.6666667,Femenino,100
+,Santa Fe,6,7,13,6,100,100,100,Masculino,0
+,Santiago del Estero,3,5,8,4,75,125,60,Masculino,0
+,TdF,5,4,9,4,125,80,100,Masculino,0
+,Tucumán,2,7,9,4,50,140,35.7142857,Masculino,0
