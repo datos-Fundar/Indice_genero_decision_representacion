@@ -4,7 +4,7 @@
 [![¿Quién tiene el poder en las provincias argentinas?](https://fund.ar/wp-content/uploads/2023/03/iStock-1393623109.jpg)](https://fund.ar/wp-content/uploads/2023/03/Fundar_Quien-tiene-el-poder-en-las-provincias-argentinas_CC-BY-NC-ND-4.0.pdf)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20NC%20SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234.svg)](https://zenodo.org/doi/10.5281/zenodo.11186044) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14657323.svg)](https://doi.org/10.5281/zenodo.14657323)
 
 
 La desigualdad de género ha adquirido una visibilidad pública sin precedentes en los últimos años, convirtiéndose en un elemento clave en la planificación del desarrollo del país. Reconociendo la complejidad estructural de este fenómeno y su desafío para la política pública, desde [Fundar](https://fund.ar/) elaboramos un Índice Subnacional de Igualdad de Género (ISIG).

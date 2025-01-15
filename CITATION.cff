@@ -19,10 +19,39 @@ identifiers:
   - description: "El Índice de Género, Decisión y Representación mide la participación de mujeres 
   en espacios de poder en Argentina, y destaca brechas a nivel nacional y provincial."
     type: doi
-#    value: 10.5281/zenodo.123456  // REEMPLAZAR ESTO CON EL DOI CORRESPONDIENTE Y CAMBIARLO EN EL README
+    value: 10.5281/zenodo.14657323
 authors:
-  - given-names: "Lorem"
-    family-names: "Ipsum"
+  - given-names: "Cerra"
+    family-names: "Maria Emilia"
     affiliation: "Fundar"
-    email: lipsum@fund.ar
-    
+#    email: lipsum@fund.ar
+
+  - given-names: "Avenburg"
+    family-names: "Alejandro"
+    affiliation: "Fundar"
+    email: aavenburg@fund.ar
+
+  - given-names: "Bergallo"
+    family-names: "Paola"
+    affiliation: "Fundar"
+    email: pbergallo@fund.ar
+
+  - given-names: "Puglia"
+    family-names: "Maria de las Nieves"
+    affiliation: "Fundar"
+    email: mpuglia@fund.ar
+
+  - given-names: "Risaro"
+    family-names: "Daniela Belén"
+    affiliation: "Fundar"
+    email: drisaro@fund.ar
+
+  - given-names: "Fernandez Erlauer"
+    family-names: "Micaela"
+    affiliation: "Fundar"
+    email: mfernandezerlauer@fund.ar
+
+  - given-names: "Argoitia"
+    family-names: "Juan Martin"
+    affiliation: "Fundar"
+    email: jmargoitia@fund.ar
